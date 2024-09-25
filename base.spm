@@ -1,0 +1,7 @@
+}
+title: Simple Example!
+description: A basic example!
+sources: github.file/files.zip
+extract: files.zip
+main: main.exe
+}
